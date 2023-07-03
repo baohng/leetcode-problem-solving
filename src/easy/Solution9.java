@@ -1,3 +1,5 @@
+package easy;
+
 public class Solution9 {
     public static boolean isPalindrome(int x) {
         String intToString = Integer.toString(x);
